@@ -46,6 +46,6 @@ My goal is to keep building increasingly complete projects and move professional
 
 Feel free to reach out:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-ENLACE-AQUI)
+[![LinkedIn](https://www.linkedin.com/in/marcos-mar%C3%ADa-mart%C3%ADnez-varas-b5156b3a3/)
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmartinezvaras@icloud.com)
