@@ -26,22 +26,6 @@ I also have experience with web and backend technologies from my DAM studies.
 
 ---
 
-## 🚀 Some of my projects
-
-### [Python-RAG-AI-para-leer-PDFs](https://github.com/mmartinezvaras/Python-RAG-AI-para-leer-PDFs)
-
-A Python project focused on working with PDF documents using **RAG and Generative AI**. It allows users to ask questions about document content using natural language.
-
-### [TFComputer](https://github.com/mmartinezvaras/TFComputer)
-
-A project developed during my studies, focused on building an application using the technologies and concepts learned throughout the DAM program.
-
-### [MiPartidoPremier](https://github.com/mmartinezvaras/MiPartidoPremier)
-
-A **Premier League** related application created as a project to practice application development and data management.
-
----
-
 ## 📚 What I'm working on
 
 At the moment, I'm mainly focused on learning and practicing:
