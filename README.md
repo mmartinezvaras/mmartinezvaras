@@ -1,66 +1,66 @@
-# ¡Hola! Soy Marcos 👋
+# Hi! I'm Marcos 👋
 
-### Desarrollador Multiplataforma (DAM) | Big Data · IA · IA Generativa
+### Multiplatform Developer (DAM) | Big Data · AI · Generative AI
 
-Soy desarrollador con formación en DAM y actualmente estoy especializándome en **Big Data, Inteligencia Artificial e IA Generativa**.
+I'm a developer with a background in **Multiplatform Application Development (DAM)**, currently specializing in **Big Data, Artificial Intelligence, and Generative AI**.
 
-Me interesa especialmente trabajar con datos, automatizar procesos y experimentar con herramientas de IA para crear aplicaciones útiles y prácticas. Actualmente estoy ampliando mis conocimientos en el área de datos y construyendo proyectos para seguir aprendiendo.
+I'm especially interested in working with data, automating processes, and experimenting with AI tools to build useful and practical applications. Right now, I'm expanding my knowledge in the data field and building projects to keep learning through practice.
 
-📍 Madrid, España  
-🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)  
-📚 Especialización en Big Data, IA e IA Generativa  
-🌐 Español nativo · Inglés C2
+📍 Madrid, Spain  
+🎓 Higher Technician in Multiplatform Application Development (DAM)  
+📚 Currently specializing in Big Data, AI & Generative AI  
+🌐 Native Spanish · English C2
 
 ---
 
-## 💻 Tecnologías
+## 💻 Technologies
 
-Estas son algunas de las tecnologías con las que estoy trabajando actualmente:
+Some of the technologies I'm currently working with:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-También tengo experiencia con tecnologías de desarrollo web y backend gracias a mi formación en DAM.
+I also have experience with web and backend technologies from my DAM studies.
 
 ---
 
-## 🚀 Algunos proyectos
+## 🚀 Some of my projects
 
 ### [Python-RAG-AI-para-leer-PDFs](https://github.com/mmartinezvaras/Python-RAG-AI-para-leer-PDFs)
 
-Proyecto desarrollado en Python para trabajar con documentos PDF utilizando **RAG e IA generativa**. Permite consultar el contenido de los documentos mediante lenguaje natural.
+A Python project focused on working with PDF documents using **RAG and Generative AI**. It allows users to ask questions about document content using natural language.
 
 ### [TFComputer](https://github.com/mmartinezvaras/TFComputer)
 
-Proyecto desarrollado como parte de mi formación, centrado en el desarrollo de una aplicación utilizando las tecnologías aprendidas durante el ciclo de DAM.
+A project developed during my studies, focused on building an application using the technologies and concepts learned throughout the DAM program.
 
 ### [MiPartidoPremier](https://github.com/mmartinezvaras/MiPartidoPremier)
 
-Aplicación relacionada con la **Premier League**, desarrollada como proyecto para poner en práctica conceptos de desarrollo de aplicaciones y gestión de datos.
+A **Premier League** related application created as a project to practice application development and data management.
 
 ---
 
-## 📚 Ahora mismo
+## 📚 What I'm working on
 
-Actualmente estoy centrado en aprender y practicar:
+At the moment, I'm mainly focused on learning and practicing:
 
-- 🐍 Python para análisis y procesamiento de datos
-- 🗄️ SQL y bases de datos
-- 📊 Análisis y limpieza de datos con Pandas
-- ⚙️ Conceptos de Big Data
-- 🤖 Inteligencia Artificial e IA Generativa
-- 🔎 RAG y procesamiento de documentos
-- 🧠 Uso de modelos de lenguaje en aplicaciones
+- 🐍 Python for data analysis and processing
+- 🗄️ SQL and databases
+- 📊 Data cleaning and analysis with Pandas
+- ⚙️ Big Data fundamentals
+- 🤖 Artificial Intelligence & Generative AI
+- 🔎 RAG and document processing
+- 🧠 Using language models in applications
 
-Mi objetivo es ir construyendo proyectos cada vez más completos y acercarme profesionalmente al mundo de **Big Data e IA**.
+My goal is to keep building increasingly complete projects and move professionally into the world of **Big Data and AI**.
 
 ---
 
-## 📫 Contacto
+## 📫 Get in touch
 
-Si quieres contactar conmigo:
+Feel free to reach out:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-ENLACE-AQUI)
 
