@@ -48,7 +48,7 @@ My goal is to keep building increasingly complete projects and move professional
 ## 💼 Experience
 
 ### Indra / Minsait
-**Technology Intern · 3 months**
+**Technology Intern · 4 months**
 
 - Gained professional experience in a real-world technology environment.
 - Applied knowledge acquired during my DAM studies.
