@@ -10,7 +10,7 @@ I'm especially interested in working with data, automating processes, and experi
 
 📍 Madrid, Spain  
 🎓 Higher Technician in Multiplatform Application Development (DAM)  
-💼 3-month internship experience at Indra / Minsait  
+💼 4-month internship experience at Indra / Minsait  
 📚 Currently specializing in Big Data, AI & Generative AI  
 🌐 Native Spanish · English C2
 
