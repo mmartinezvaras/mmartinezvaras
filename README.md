@@ -4,7 +4,7 @@
 
 I'm a developer with a background in **Multiplatform Application Development (DAM)**, currently specializing in **Big Data, Artificial Intelligence, and Generative AI**.
 
-I have also completed **3 months of professional internship experience at Indra / Minsait**, where I had the opportunity to gain experience working in a professional technology environment and apply my development knowledge in real-world projects.
+I have also completed **4 months of professional internship experience at Indra / Minsait**, where I had the opportunity to gain experience working in a professional technology environment and apply my development knowledge in real-world projects.
 
 I'm especially interested in working with data, automating processes, and experimenting with AI tools to build useful and practical applications. Right now, I'm expanding my knowledge in the data field and building projects to keep learning through practice.
 
