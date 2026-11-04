@@ -5,7 +5,7 @@
 Multiplatform developer (DAM) currently doing a **Master's in Big Data, Applied AI and Generative AI at U-tad**. I build data and generative AI projects with Python, SQL and automated tests, on top of a full-stack background with Java/Spring Boot and Angular.
 
 📍 Madrid, Spain · 🇬🇧 English C2 (LanguageCert) · 🇪🇸 Native Spanish  
-🟢 **Available now for internships or a junior role in the mornings (until 15:00 CET), full-time from June 2027.**
+🟢 **Available immediately for an internship or a junior role, full-time.**
 
 🌐 **Portfolio:** [mmartinezvaras.github.io](https://mmartinezvaras.github.io/inicio/) · 📄 CV in the portfolio
 
