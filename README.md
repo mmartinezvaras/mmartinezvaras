@@ -2,7 +2,7 @@
 
 ### Junior Data Engineer · Python · SQL · Generative AI
 
-Multiplatform developer (DAM) currently doing a **Master's in Big Data, Applied AI and Generative AI at U-tad**. I build data and generative AI projects with Python, SQL and automated tests, on top of a full-stack background with Java/Spring Boot and Angular.
+Multiplatform developer (DAM) currently doing a **Master's in Big Data, Applied AI and Generative AI at U-tad**. I build end-to-end data and AI projects, from streaming ingestion and lakehouses to explainable ML and RAG, always with automated tests, CI and a live demo, on top of a full-stack background with Java/Spring Boot and Angular.
 
 📍 Madrid, Spain · 🇬🇧 English C2 (LanguageCert) · 🇪🇸 Native Spanish  
 🟢 **Available immediately for an internship or a junior role, full-time.**
@@ -15,13 +15,13 @@ Multiplatform developer (DAM) currently doing a **Master's in Big Data, Applied 
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[RAG over PDFs](https://github.com/mmartinezvaras/Python-RAG-AI-para-los-PDFs)** | Ask questions about your PDFs and get answers that cite the document and page. LLM-as-judge evaluation runs in CI; one-click demo in Codespaces. | Python · LangChain · ChromaDB · Ollama · Streamlit · pytest · Docker |
-| **[Banking lakehouse](https://github.com/mmartinezvaras/banking-lakehouse-pyspark)** *(in progress)* | Simulated bank with 1,000 customers and 50,062 transactions hiding 62 frauds. Next: Bronze → Silver → Gold pipeline in PySpark with Delta Lake and fraud rules with window functions. | Python · Faker · PySpark · Delta Lake · pytest · GitHub Actions |
+| **[Card fraud detection on a lakehouse](https://github.com/mmartinezvaras/banking-lakehouse-pyspark)** · [▶ live demo](https://fraude-lakehouse-marcos.streamlit.app/) | Bronze → Silver → Gold pipeline over 50,109 bank transactions, with a quarantine for bad rows, incremental `MERGE` and time travel. Fraud rules built with window functions catch **13 of 13 attacks and stop 99.9% of the stolen money**, versus 4 of 13 for a naive rule. Tested on real Spark in CI. | PySpark · Delta Lake · Streamlit · pytest · GitHub Actions |
+| **[Explainable credit scoring](https://github.com/mmartinezvaras/credit-scoring)** · [▶ live demo](https://scoring-credito-marcos.streamlit.app/) | Probability of default for 30,000 customers: monotonic LightGBM (Gini 0.546 vs 0.478 for logistic regression), explained with SHAP, calibrated and banded A–E. Reviewing 47% of customers would avoid **77% of defaults**. | Python · LightGBM · SHAP · scikit-learn · Streamlit |
+| **[RAG assistant for the Spanish Workers' Statute](https://github.com/mmartinezvaras/Python-RAG-AI-para-los-PDFs)** · [▶ live demo](https://estatuto-rag.streamlit.app/) | Hybrid search (vectors + BM25) that cites the article and page, and refuses questions the law does not cover. Evaluated in CI on 35 questions: **right article 87%** of the time, correct answer 77%. Runs locally on Ollama or online on Gemini. | LangChain · ChromaDB · BM25 · Ollama · Gemini · Streamlit · pytest |
+| **[Real-time card payments](https://github.com/mmartinezvaras/bigdata-pagos-tarjeta)** | Simulator → Kafka → HDFS → Hive with at-least-once delivery and a quarantine per rule. **0 payments lost out of 102,000 messages**, even when the consumer is killed; every result is checked against expected values. | Kafka · Hadoop HDFS · Hive · Parquet · Docker Compose |
 | **[LaLiga match prediction](https://github.com/mmartinezvaras/laliga-match-prediction)** | Random Forest with a time-based split and leakage-free recent-form features: 51.5% win-prediction precision vs a 38% base rate. | Python · pandas · scikit-learn · Jupyter |
-| **[Resale management dashboard](https://github.com/mmartinezvaras/consolaAdminProductos)** | Inventory and profit tracking: REST API with 64 endpoints, pessimistic locking for stock and 26 unit tests. | Java 21 · Spring Boot · MySQL · Angular · JUnit 5 |
-| **[NoSQL banking database](https://github.com/mmartinezvaras/nosql-financial-engine)** | Customer and transaction model in MongoDB Atlas with indexes and aggregation pipelines. | Python · PyMongo · MongoDB Atlas |
 
-More: [face-recognition attendance](https://github.com/mmartinezvaras/Reconocimiento_Facial) · [restaurant ordering app, final DAM project](https://github.com/mmartinezvaras/TFGangular) · [HDFS cluster in Docker (course labs)](https://github.com/mmartinezvaras/s_aprendizaje)
+More: [resale management dashboard](https://github.com/mmartinezvaras/consolaAdminProductos) (Spring Boot API with 64 endpoints) · [NoSQL banking database](https://github.com/mmartinezvaras/nosql-financial-engine) · [face-recognition attendance](https://github.com/mmartinezvaras/Reconocimiento_Facial) · [restaurant ordering app, final DAM project](https://github.com/mmartinezvaras/TFGangular) · [machine learning coursework](https://github.com/mmartinezvaras/s_aprendizaje)
 
 ---
 
@@ -46,13 +46,23 @@ More: [face-recognition attendance](https://github.com/mmartinezvaras/Reconocimi
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/PySpark-learning-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+**Big Data**  
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square&logo=delta&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Hadoop HDFS](https://img.shields.io/badge/Hadoop_HDFS-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
+![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white)
 
 **Generative AI & ML**  
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-FF0D57?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **Development**  
@@ -74,14 +84,17 @@ More: [face-recognition attendance](https://github.com/mmartinezvaras/Reconocimi
 
 ## 📚 Currently learning
 
-- **PySpark and Delta Lake** on Databricks, finishing the banking lakehouse pipeline
 - **Apache Airflow** for orchestration and **dbt** for SQL data modelling
 - **Azure data fundamentals (DP-900)**
 - **COBOL and z/OS mainframe basics** (IBM Z Xplore), to connect legacy systems with modern data platforms
 
 ## 🏅 Certifications
 
-*Coming soon: Databricks Fundamentals · Microsoft Azure Data Fundamentals (DP-900) · IBM Z Xplore*
+- **Python Essentials 1** and **Python Essentials 2** · Cisco Networking Academy & OpenEDG Python Institute · Oct 2026 · [verify](https://www.credly.com/badges/d5f2e3d3-7c41-4ec8-8fdd-0be91d3ac1a8/public_url) · [verify](https://www.credly.com/badges/50a0a413-61d9-47c9-be51-33c1361e98e5/public_url)
+- **Data Science Essentials with Python** · Cisco · Oct 2026 · [verify](https://www.credly.com/badges/3eb09829-dfb1-4eed-ada0-a2b9ffe9e77b/public_url)
+- **English C2** · LanguageCert
+
+*Next: Databricks Fundamentals · Microsoft Azure Data Fundamentals (DP-900) · IBM Z Xplore*
 
 ---
 
